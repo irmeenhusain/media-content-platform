@@ -1,0 +1,4 @@
+/backend/node_modules
+config.env
+/backend/.env
+backend/service-account-adminsdk.json
